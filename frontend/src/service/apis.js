@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:3000/api/v1" 
+const BASE_URL = "https://aiden-server.vercel.app/api/v1" 
 
 export const endpoints = {
    LOGIN_API: BASE_URL + "/user/login",
